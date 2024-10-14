@@ -1,0 +1,24 @@
+#hero{
+   background-color: pink;
+   height: 85vh;
+   padding-top: 15vh;
+}
+#hero .row{
+    align-items:center;
+}
+#hero  .card-title{
+   font: size 36px;
+}
+
+#hero .card{
+    background-color: pink;
+    border:none;
+}
+
+#product .card .card-img{
+  width: 100px !important;
+}
+
+#product{
+  padding: 10vh;
+}

@@ -1,0 +1,9 @@
+#cardSection{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 0%;
+    justify-content: space-evenly;
+}
+#cardSection .card{
+    margin: 0px;
+}
